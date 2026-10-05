@@ -1,7 +1,7 @@
 {
-  "name": "تكتك بالي - نقل و توصيل",
-  "short_name": "تكتك بالي",
-  "description": "منصة توصيل ونقل ذكية - تكتك بالي",
+  "name": "تكتك بلي - نقل و توصيل",
+  "short_name": "تكتك بلي",
+  "description": "منصة توصيل ونقل ذكية - تكتك بلي",
   "start_url": "/tuktuk-bely/",
   "scope": "/tuktuk-bely/",
   "display": "standalone",
