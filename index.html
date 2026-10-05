@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>تكتك بالي - TukTuk Baly</title>
+  <title>تكتك بلي - TukTuk Bely</title>
   <link rel="manifest" href="./manifest.json">
   <meta name="theme-color" content="#E53935">
   <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3774/3774089.png">
@@ -15,18 +15,14 @@
 </head>
 <body>
   <div class="card">
-    <h1>🛺 تكتك بالي</h1>
-    <p>منصة توصيل ونقل ذكية في بغداد وبالي</p>
-    <a class="btn" href="./admin-panel/">دخول لوحة التحكم</a>
-    <a class="btn" style="background:#333" href="./tuktuk-baly.zip">تحميل الكود المصدري</a>
+    <h1>🛺 تكتك بلي</h1>
+    <p>منصة توصيل ونقل ذكية في بغداد - اطلب تكتك بلي</p>
+    <a class="btn" href="https://github.com/ehabj6969-art/tuktuk-bely">عرض الكود على GitHub</a>
     <p style="font-size:12px; color:#666; margin-top:20px">Made with ❤️ in Baghdad</p>
   </div>
-
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./sw.js')
-        .then(() => console.log('SW registered'))
-        .catch(e => console.log('SW fail', e));
+      navigator.serviceWorker.register('./sw.js');
     }
   </script>
 </body>
