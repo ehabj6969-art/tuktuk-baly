@@ -1,0 +1,25 @@
+{
+  "name": "تكتك بالي - نقل و توصيل",
+  "short_name": "تكتك بالي",
+  "description": "منصة توصيل ونقل ذكية - تكتك بالي",
+  "start_url": "/tuktuk-bely/",
+  "scope": "/tuktuk-bely/",
+  "display": "standalone",
+  "background_color": "#FFC107",
+  "theme_color": "#E53935",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774089.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774089.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
